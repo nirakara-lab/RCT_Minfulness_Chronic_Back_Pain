@@ -1,5 +1,7 @@
 # Data set of The effect of mindfulness on the inflammatory, psychological and biomechanical domains of adult patients with Low Back Pain: A randomized controlled clinical trial
 
+[![DOI](https://zenodo.org/badge/510266796.svg)](https://zenodo.org/badge/latestdoi/510266796)
+
 Gustavo G. Diez1,¶*, Eduardo Anitua2,3¶*, Nazareth Castellanos1, Carmelo Vázquez4, Purificación Galindo-Villardón5, Mohammad H. Alkhraisat2,3
 
 1 Nirakara Lab, Madrid, Spain. Mindfulness and Cognitive Science Chair, Complutense University, Madrid, Spain.
