@@ -1,6 +1,8 @@
 # Data set of The effect of mindfulness on the inflammatory, psychological and biomechanical domains of adult patients with Low Back Pain: A randomized controlled clinical trial
 
-[![DOI](https://zenodo.org/badge/510266796.svg)](https://doi.org/10.5281/zenodo.6793420)
+[![DOI]([https://zenodo.org/badge/510266796.svg](https://zenodo.org/badge/DOI/10.5281/zenodo.6793420.svg
+
+))](https://doi.org/10.5281/zenodo.6793420)
 
 Gustavo G. Diez1,¶*, Eduardo Anitua2,3¶*, Nazareth Castellanos1, Carmelo Vázquez4, Purificación Galindo-Villardón5, Mohammad H. Alkhraisat2,3
 
