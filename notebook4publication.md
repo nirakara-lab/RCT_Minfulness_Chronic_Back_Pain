@@ -122,7 +122,7 @@ for(i in 1:length(summary_df_norm$variable)){
 }
 ```
 
-![](notebook4publication_files/figure-markdown_github/unnamed-chunk-7-1.png)
+![](unnamed-chunk-7-1.png)
 And now with boxplots:
 
 ``` r
@@ -143,7 +143,7 @@ for(i in 1:length(df_toolarge$variable)){
 }
 ```
 
-![](notebook4publication_files/figure-markdown_github/unnamed-chunk-9-1.png)
+![](unnamed-chunk-9-1.png)
 
 # Outliers
 
@@ -224,7 +224,7 @@ plot <- ggplot(normalidad, aes(x = normal)) +
 plot
 ```
 
-![](notebook4publication_files/figure-markdown_github/unnamed-chunk-12-1.png)
+![](unnamed-chunk-12-1.png)
 
 # Homogeneity of variance
 
