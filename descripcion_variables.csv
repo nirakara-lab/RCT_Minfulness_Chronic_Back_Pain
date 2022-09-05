@@ -1,0 +1,112 @@
+variable,description,tittle,orden,Shapiro_test,Visual_test,Statistical_method
+Cortisol,Cortisol,Cortisol,1,Robust Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+IL_1,IL_1,IL_1,2,Robust Mixed ANOVA,Robust Mixed ANOVA,Mixed ANOVA
+IL_6,IL_6,IL_6,3,Robust Mixed ANOVA,Mixed ANOVA,Robust Mixed ANOVA
+IL_17,IL_17,IL_17,4,Robust Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+TNF,TNF,TNF,5,Robust Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+PSQI_calidad,PSQI Subjective sleep quality,"Pittsburgh Sleep Quality Index (PSQI) 
+Subjective sleep quality",6,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+PSQI_latencia,PSQI  Sleep latency,"Pittsburgh Sleep Quality Index (PSQI) 
+Sleep latency",7,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+PSQI_duracion,PSQI Sleep duration,"Pittsburgh Sleep Quality Index (PSQI)
+Sleep duration",8,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+PSQI_eficiencia,PSQI Sleep efficiency,"Pittsburgh Sleep Quality Index (PSQI)
+Sleep efficiency",9,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+PSQI_perturbaciones,PSQI Sleep disturbance,"Pittsburgh Sleep Quality Index (PSQI)
+Sleep disturbance",10,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+PSQI_medicacion,PSQI Use of sleep medication,"Pittsburgh Sleep Quality Index (PSQI)
+Use of sleep medication",11,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+PSQI_disfuncion_diurna,PSQI Daytime dysfunction,"Pittsburgh Sleep Quality Index (PSQI)
+Daytime dysfunction",12,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+PSQI_Total,PSQI Global,"Pittsburgh Sleep Quality Index (PSQI)
+Global PSQI Score",13,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+RMQ_Total,RMQ,"Roland-Morris Low Back Pain (RMQ)
+And Disability Questionnaire",14,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+OQ_Total,ODI,Oswestry Low Back Pain Disability Questionnaire (ODI),15,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+FFMQ_ACT,FFMQ Aware actions,"Five Facet Mindfulness Questionnaire (FFMQ)
+Aware actions",16,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+FFMQ_NONREACT,FFMQ Non-reactivity,"Five Facet Mindfulness Questionnaire (FFMQ)
+Non-reactivity",17,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+FFMQ_NONJ,FFMQ Non-judgmental inner experience,"Five Facet Mindfulness Questionnaire (FFMQ)
+Non-judgmental inner experience",18,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+FFMQ_OBS,FFMQ Observation,"Five Facet Mindfulness Questionnaire (FFMQ)
+Observation",19,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+FFMQ_DES,FFMQ Description,"Five Facet Mindfulness Questionnaire (FFMQ)
+Description",20,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+FFMQ_Total,FFMQ  Global,"Five Facet Mindfulness Questionnaire (FFMQ)
+Global",21,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+SCS_self_kindness,SCS Self-Kindness,"Self-Compassion Scale Short Form (SCS)
+Self-Kindness",22,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+SCS_self_judgment,SCS Self-Judgment,"Self-Compassion Scale Short Form (SCS)
+Self-Judgment",23,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+SCS_common_humanity,SCS Common humanity,"Self-Compassion Scale Short Form (SCS)
+Common humanity",24,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+SCS_isolation,SCS Isolation,"Self-Compassion Scale Short Form (SCS)
+Isolation",25,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+SCS_mindfulness,SCS Mindfulness,"Self-Compassion Scale Short Form (SCS)
+Mindfulness",26,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+SCS_over_identified,SCS Over-Identification,"Self-Compassion Scale Short Form (SCS)
+Over-Identification",27,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+MAIA_Noticing,MAIA Noticing,"Multidimensional Assessment of Interoceptive Awareness (MAIA)
+Noticing",28,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+MAIA_NotDistracting,MAIA Not-Distracting,"Multidimensional Assessment of Interoceptive Awareness (MAIA)
+Not-Distracting",29,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+MAIA_NotWorrying,MAIA Not-Worrying,"Multidimensional Assessment of Interoceptive Awareness (MAIA)
+Not-Worrying",30,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+MAIA_AttRegulation,MAIA Attention Regulation,"Multidimensional Assessment of Interoceptive Awareness (MAIA)
+Attention Regulation",31,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+MAIA_EmRegulation,MAIA Emotional Awareness,"Multidimensional Assessment of Interoceptive Awareness (MAIA)
+Emotional Awareness",32,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+MAIA_SelfRegulation,MAIA Self-Regulation,"Multidimensional Assessment of Interoceptive Awareness (MAIA)
+Self-Regulation",33,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+MAIA_BodyListening,MAIA Body Listening,"Multidimensional Assessment of Interoceptive Awareness (MAIA)
+Body Listening",34,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+MAIA_Trusting,MAIA Trusting,"Multidimensional Assessment of Interoceptive Awareness (MAIA)
+Trusting",35,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+MAIA_Total,MAIA  Global,"Multidimensional Assessment of Interoceptive Awareness (MAIA)
+Global",36,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+DASS_Depression,DASS Depression,"Depression Anxiety Stress Scales (DASS)
+Depression",37,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+DASS_Anxiety,DASS Anxiety,"Depression Anxiety Stress Scales (DASS)
+Anxiety",38,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+DASS_Stress,DASS Stress,"Depression Anxiety Stress Scales (DASS)
+Stress",39,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+DASS_Total,DASS Global,"Depression Anxiety Stress Scales (DASS)
+Global",40,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+SF_physical_functioning,SF-36 Physical functioning,"36-Item Short Form Survey (SF-36)
+Physical functioning",41,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+SF_limitations_physical,SF-36 Role limitations due to physical health,"36-Item Short Form Survey (SF-36)
+Role limitations due to physical health",42,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+SF_limitations_emotional,SF-36 Role limitations due to emotional problems,"36-Item Short Form Survey (SF-36)
+Role limitations due to emotional problems",43,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+SF_energy,SF-36 Energy/fatigue,"36-Item Short Form Survey (SF-36)
+Energy/fatigue",44,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+SF_emotional_wellbeing,SF-36 Emotional well-being,"36-Item Short Form Survey (SF-36)
+Emotional well-being",45,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+SF_social_functioning,SF-36 Social functioning,"36-Item Short Form Survey (SF-36)
+Social functioning",46,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+SF_pain,SF-36 Pain,"36-Item Short Form Survey (SF-36)
+Pain",47,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+SF_general_health,SF-36 General health,"36-Item Short Form Survey (SF-36)
+General health",48,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+TSK_Total,TSK,Tampa Scale for Kinesiophobia (TSK),49,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+FABQ_work,FABQ Work,"Fear Avoidance Belief Questionnaire (FABQ)
+Work",50,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+FABQ_physical_activity,FABQ Physical Activity,"Fear Avoidance Belief Questionnaire (FABQ)
+Physical Activity",51,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+PCS_Rumination,PCS Rumination,"Pain Catastrophizing Scale (PCS)
+Rumination",52,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+PCS_Magnification,PCS Magnification,"Pain Catastrophizing Scale (PCS)
+Magnification",53,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+PCS_Helplessness,PCS Helplessness,"Pain Catastrophizing Scale (PCS)
+Helplessness",54,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+PCS_Total,PCS Global,"Pain Catastrophizing Scale (PCS)
+Global",55,Robust Mixed ANOVA,Robust Mixed ANOVA,Robust Mixed ANOVA
+CPAQ_activity_engagement,CPAQ Activity Engagement,"Chronic Pain Acceptance Questionnaire (CPAQ)
+Activity Engagement",56,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+CPAQ_pain_willingness,CPAQ Willingness to Pain ,"Chronic Pain Acceptance Questionnaire (CPAQ)
+Willingness to Pain ",57,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+CPAQ_Total,CPAQ Global,"Chronic Pain Acceptance Questionnaire (CPAQ)
+Global",58,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+SWLS_Total,SWLS,Satisfaction with Life Scale (SWLS),59,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
+WHO_Total,WHO-5,Five Well-Being Index (WHO-5),60,Mixed ANOVA,Mixed ANOVA,Mixed ANOVA
